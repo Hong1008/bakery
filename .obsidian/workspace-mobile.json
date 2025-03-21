@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "3102e99402dcd8d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "efb169c499ce7afa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "455c3cb92b878768",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/1. 공통과목/1-1 기초과학/단백질.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "810f88a986d263be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/1. 공통과목/1-2 재료과학/밀가루.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "556dcda1b46ad3ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/1. 공통과목/1-2 재료과학/기타 가루.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9c3529731cd5078",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/4. 위생안전관리/식품위생 관련 법규 및 규정.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0f698c8073ac24d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/4. 위생안전관리/개인위생 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c9b941e5ddf75f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/4. 위생안전관리/환경위생 관리.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6a534a97281bc2ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/1. 공통과목/1-2 재료과학/기타 가루.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "df703e7e6bcbbaf8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "제과제빵기능사/1. 공통과목/1-2 재료과학/유지.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "68bc6c0f852a3b40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "우유, 달걀, 물.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 8
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7a7b28de861c174e",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "d9e8c3f95cfc0b08",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "d0c6ccccfad28499",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a367a927d6dc8d38",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "23fa840fb38fc2af",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "747320c79de98959",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "529070dcc6af64a3",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "우유, 달걀, 물.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "ca38d33664c7ce0e",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "우유, 달걀, 물.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "e1b151b59b544319",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "우유, 달걀, 물.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "68bc6c0f852a3b40",
+  "lastOpenFiles": [
+    "제과제빵기능사/1. 공통과목/1-2 재료과학/유지.md",
+    "우유, 달걀, 물.md",
+    "제과제빵기능사/1. 공통과목/1-2 재료과학/기타 가루.md",
+    "제과제빵기능사/4. 위생안전관리/공정 점검 및 관리.md",
+    "제과제빵기능사/4. 위생안전관리/환경위생 관리.md",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학/지방질.md",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학/효소.md",
+    "제과제빵기능사/4. 위생안전관리/식품위생 관련 법규 및 규정.md",
+    "제과제빵기능사/4. 위생안전관리/개인위생 관리.md",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학/단백질.md",
+    "제과제빵기능사/4. 위생안전관리",
+    "제과제빵기능사/1. 공통과목/1-2 재료과학/밀가루.md",
+    "제과제빵기능사/1. 공통과목/1-2 재료과학",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학/탄수화물.md",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학",
+    "제과제빵기능사/1. 공통과목/1-1 기초과학.md",
+    "제과제빵기능사/1. 공통과목",
+    "제과제빵기능사",
+    "제과제빵기능사.md",
+    "1. 공통과목.md"
+  ]
+}
